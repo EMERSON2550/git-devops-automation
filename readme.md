@@ -7,3 +7,8 @@ Bem-vindo ao repositório! Este é um projeto de exemplo para demostra o uso bá
 - Git  
 - GitHub  
 - Markdown
+### Estrutura de projeto 
+
+### Adicinando conteudo Remotamente 
+
+ ## Como trabalhar
